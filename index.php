@@ -754,7 +754,7 @@
             
             
             
-            <div class="offset-lg-1 col-lg-10">
+            <div class="offset-lg-1 col-lg-10" style="display:none;">
 
                     <form class="form" action="form.php" method="post"> 
                     <div class="row">
