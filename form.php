@@ -12,42 +12,31 @@ $mail = new PHPMailer(true);
 $alert = '';
 
 if(isset($_POST['submit'])){
-  $name = $_POST['name'];
+  
+ $name = $_POST['name'];
   $email = $_POST['email'];
   $message = $_POST['message'];
     $subject = $_POST['subject'];
     $phone = $_POST['phone'];
 
-
   try{
-      
     $mail->isSMTP();
-    $mail->Host = 'localhost';
-    $mail->Port = 25;
-    $mail->SMTPOptions = array(
-        'ssl' => array(
-        'verify_peer' => false,
-        'verify_peer_name' => false,
-        'allow_self_signed' => true
-        )
-        );
-    $mail->SMTPSecure = false;
-    $mail->SMTPAutoTLS = false;
-    $mail->SMTPAuth = false;  
-     $mail->SMTPDebug    = 2; 
-       $mail->Username = 'carlosjensen.mktg@gmail.com'; // Gmail address which you want to use as SMTP server
+    $mail->Host = 'smtp.gmail.com';
+    $mail->SMTPAuth = true;
+    $mail->Username = 'carlosjensen.mktg@gmail.com'; // Gmail address which you want to use as SMTP server
     $mail->Password = 'Thynkk@2021'; // Gmail address Password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+    $mail->Port = '587';
 
-    $mail->setFrom('balanagendrakumar244@gmail.com'); // Gmail address which you used as SMTP server
-    $mail->addAddress('balanagendrakumar244@gmail.com'); // Email address where you want to receive emails (you can use any of your gmail address including the gmail address which you used as SMTP server)
+    $mail->setFrom('arunprashad1281@gmail.com', 'Prime connectz Landing Page'); // Gmail address which you used as SMTP server
+    $mail->addAddress('arunprashad1281@gmail.com'); // Email address where you want to receive emails (you can use any of your gmail address including the gmail address which you used as SMTP server)
 
     $mail->isHTML(true);
-    $mail->Subject = 'Message Received (Portfolio)';
-    $mail->Body = "<h3>Name : $name <br>Email: $email <br>Phone Number : $phone<br>Message : $message</h3>";
+    $mail->Subject = 'Message Received (Primeconnectz langing page)';
+    $mail->Body = "<h3><h3>Name : $name <br>Email: $email <br>Phone Number : $phone<br>Message : $message</h3></h3>";
 
     if ($mail->send()) {
-      header('location:index');
+      echo "<script type='text/javascript'> document.location = 'error'; </script>";
     }
     echo '';
   } catch (Exception $e){
