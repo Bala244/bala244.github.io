@@ -1,14 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE php>
+<php lang="en">
 
-<!-- Mirrored from nour-theme.netlify.app/dark-theme.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 May 2021 05:47:54 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<!-- Mirrored from BNK-theme.netlify.app/dark-theme.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 May 2021 05:47:54 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/php;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Nour - Personal Portfolio HTML Template">
-    <meta name="keywords" content="new, html, Nour, design, creative, onepage, Portfolio, personal, advanced,">
+    <meta name="description" content="BNK - Personal Portfolio php">
+    <meta name="keywords" content="new, php, BNK, design, creative, onepage, Portfolio, personal, advanced,">
     
     <!-- Main Page Title -->
     <title>BNk || Portfolio</title>
@@ -35,10 +35,10 @@
     <link rel="stylesheet" href="assets/css/responsive.css"> 
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- php5 Shim and Respond.js IE8 support of php5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/php5shiv/3.7.0/php5shiv.js"></script>
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
@@ -52,7 +52,7 @@
    <!-- Container -->
    <div class="container">
      <!-- My Logo -->
-     <a href="index.html" class="navbar-brand">BNK</a>
+     <a href="index.php" class="navbar-brand">BNK</a>
      <!-- Button Menu -->
      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navtoggler" aria-controls="navtoggler" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -133,7 +133,7 @@
              <div class="col-lg-6">
                 <div class="info-about">
                     <!-- Title Of Section Left -->
-                    <div class="section-title-left" data-aos="fade-left" data-aos-duration="1000">
+                    <div class="section-title-left" data-aos="fade-right" data-aos-duration="1000">
                         <h2>I'm Bala</h2>
                         <h3>I'm Creative Web Designer <br> And Developer Based In India</h3>
                     </div>
@@ -143,7 +143,7 @@
                     <p class="mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna.</p>
                     
                     <div class="profile" >
-                        <div class="row" data-aos="fade-left" data-aos-delay="300">
+                        <div class="row" data-aos="fade-right" data-aos-delay="300">
                             <div class="col-md-6">
                                 <p>Name: <span>Bala</span></p>
                             </div>
@@ -216,7 +216,7 @@
 
             
   
-            <div class="col-md-6"  data-aos="fade-left" data-aos-duration="1000" >
+            <div class="col-md-6"  data-aos="fade-right" data-aos-duration="1000" >
                     
                 <div class="info-skills">
                         <div class="skills">
@@ -234,7 +234,7 @@
                             </div>
                             
                             <div class="skill-box"> 
-                                <h4 class="skill-title">HTML5 & CSS3 </h4> 
+                                <h4 class="skill-title">php5 & CSS3 </h4> 
                                 <div class="progress-line"> 
                                     <span data-percent="78"><span class="percent-tooltip">78%</span></span> 
                                 </div>
@@ -246,7 +246,7 @@
             </div>
             
             
-            <div class="col-md-6"  data-aos="fade-left" data-aos-duration="1000"  data-delay="300">
+            <div class="col-md-6"  data-aos="fade-right" data-aos-duration="1000"  data-delay="300">
                     
                 <div class="info-skills">
                         <div class="skills">
@@ -304,7 +304,7 @@
             <div class="my-resume">
 
             
-                <div class="history-top" data-aos="fade-left" data-aos-duration="1000"> 2020 - 2021</div>
+                <div class="history-top" data-aos="fade-right" data-aos-duration="1000"> 2020 - 2021</div>
                 <div class="resume-item">
                     <div class="resume-head">
                         <span class="icon-exp"><i class=" fa fa-briefcase"></i></span>
@@ -338,7 +338,7 @@
              <div class="col-md-6">
             <div class="my-resume">
                 
-                <div class="history-top" data-aos="fade-left" data-aos-duration="1000"> 2017 - 2020</div>
+                <div class="history-top" data-aos="fade-right" data-aos-duration="1000"> 2017 - 2020</div>
                 <div class="resume-item">
                     
                     <div class="resume-head">
@@ -876,5 +876,4 @@
 
 </body>
 
-<!-- Mirrored from nour-theme.netlify.app/dark-theme.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 May 2021 05:48:44 GMT -->
-</html>
+</php>
