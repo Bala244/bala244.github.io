@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<!-- Mirrored from nour-theme.netlify.app/dark-theme.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 May 2021 05:47:54 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Nour - Personal Portfolio HTML Template">
-    <meta name="keywords" content="new, html, Nour, design, creative, onepage, Portfolio, personal, advanced,">
+    <meta name="description" content="Bala - Personal Portfolio">
+    <meta name="keywords" content="new, html, Bala, design, creative, onepage, Portfolio, personal, advanced,">
     
     <!-- Main Page Title -->
     <title>BNk || Portfolio</title>
@@ -873,5 +871,4 @@
 
 </body>
 
-<!-- Mirrored from nour-theme.netlify.app/dark-theme.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 May 2021 05:48:44 GMT -->
 </html>
