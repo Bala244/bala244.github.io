@@ -811,11 +811,12 @@
     =====================================================================--> 
     <footer class="footer">
        <div class="container">
-           <ul class="social-media text-center">
-               <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-               <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-               <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-            </ul>
+          <ul class="social-media text-center">
+                           <li><a href="https://www.facebook.com/people/Bala/100005571857609" target="blank"><i class="fab fa-facebook-f"></i></a></li>
+                           <li><a href="https://twitter.com/BNK2404" target="blank"><i class="fab fa-twitter"></i></a></li>
+                           <li><a href="https://www.instagram.com/_bnk_24/" target="blank"><i class="fab fa-instagram"></i></a></li>
+                           <li><a href="https://github.com/Bala244" target="blank"><i class="fab fa-github"></i></a></li>
+                        </ul>
          <!-- Copyright By Me Bnk  -->
         <div class="copyright text-center">
             &copy; 2021 Bnk All Rights Reserved By
