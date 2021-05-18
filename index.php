@@ -133,7 +133,7 @@
              <div class="col-lg-6">
                 <div class="info-about">
                     <!-- Title Of Section Left -->
-                    <div class="section-title-left" data-aos="fade-left" data-aos-duration="1000">
+                    <div class="section-title-left" data-aos="fade-right" data-aos-duration="1000">
                         <h2>I'm Bala</h2>
                         <h3>I'm Creative Web Designer <br> And Developer Based In India</h3>
                     </div>
@@ -143,7 +143,7 @@
                     <p class="mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna.</p>
                     
                     <div class="profile" >
-                        <div class="row" data-aos="fade-left" data-aos-delay="300">
+                        <div class="row" data-aos="fade-right" data-aos-delay="300">
                             <div class="col-md-6">
                                 <p>Name: <span>Bala</span></p>
                             </div>
@@ -216,7 +216,7 @@
 
             
   
-            <div class="col-md-6"  data-aos="fade-left" data-aos-duration="1000" >
+            <div class="col-md-6"  data-aos="fade-right" data-aos-duration="1000" >
                     
                 <div class="info-skills">
                         <div class="skills">
@@ -246,7 +246,7 @@
             </div>
             
             
-            <div class="col-md-6"  data-aos="fade-left" data-aos-duration="1000"  data-delay="300">
+            <div class="col-md-6"  data-aos="fade-right" data-aos-duration="1000"  data-delay="300">
                     
                 <div class="info-skills">
                         <div class="skills">
@@ -304,7 +304,7 @@
             <div class="my-resume">
 
             
-                <div class="history-top" data-aos="fade-left" data-aos-duration="1000"> 2020 - 2021</div>
+                <div class="history-top" data-aos="fade-right" data-aos-duration="1000"> 2020 - 2021</div>
                 <div class="resume-item">
                     <div class="resume-head">
                         <span class="icon-exp"><i class=" fa fa-briefcase"></i></span>
@@ -338,7 +338,7 @@
              <div class="col-md-6">
             <div class="my-resume">
                 
-                <div class="history-top" data-aos="fade-left" data-aos-duration="1000"> 2017 - 2020</div>
+                <div class="history-top" data-aos="fade-right" data-aos-duration="1000"> 2017 - 2020</div>
                 <div class="resume-item">
                     
                     <div class="resume-head">
