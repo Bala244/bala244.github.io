@@ -703,9 +703,13 @@ body {
     position: relative;
     text-transform: capitalize;
     font-size: 15px;
-    color: #e4d1d1;
+    color: #ECE9EC;
     font-weight: 600;
     line-height: 27px;
+}
+.portfolio {
+    position: relative;
+    background: #2f2f31 !important;
 }
 .banner-meta li:first-of-type::before {
     top: -1px;
