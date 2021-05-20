@@ -607,7 +607,7 @@
             </div>
 
             <div  class="col-md-6 col-lg-4">
-                <a href="https://www.thanjainatural.com/thanjaiapp/home_controller/landingslider" target="blank">
+                <a href="https://www.thanjainatural.com/thanjaiapp/" target="blank">
                 <div class="services-item">
                     <div class="icon-services">
                         <span></span>
