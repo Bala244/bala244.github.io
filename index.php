@@ -377,7 +377,7 @@
 
         </div>
     
-        <a href="#" class="btn-one mt-20">Download Resume</a>
+<!--         <a href="#" class="btn-one mt-20">Download Resume</a> -->
     </div>
     
 </section>
