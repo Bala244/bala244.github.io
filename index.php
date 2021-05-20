@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Bala - Personal Portfolio">
-    <meta name="keywords" content="new, html, Bala, design, creative, onepage, Portfolio, personal, advanced,">
+    <meta name="description" content="bnk - Personal Portfolio">
+    <meta name="keywords" content="Webdesigner, webdeveloper, ui-ux, static web page, dynamic webpage, webdeveloper in Chennai,  Web designer in chennai">
     
     <!-- Main Page Title -->
-    <title>BNk || Portfolio</title>
+    <title>BNK || Portfolio</title>
     <!-- Google Font -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800">
@@ -64,11 +65,11 @@
                 <a class="nav-link active" href="#home">Home <span class="sr-only">(current)</span></a>
              </li>
             <li class="nav-item">
-               <a class="nav-link" href="#about">About</a>
+               <a class="nav-link" href="#about">About Me</a>
             </li>
    
             <li class="nav-item">
-               <a class="nav-link" href="#service">Services</a>
+               <a class="nav-link" href="#service">Projects</a>
             </li>
             <li class="nav-item">
                <a class="nav-link" href="#contact">Contact</a>
@@ -136,9 +137,11 @@
                         <h3>I'm Creative Web Designer <br> And Developer Based In India</h3>
                     </div>
                     
-                    <p class="mb-10">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>
+                    <p class="mb-10">
+                        As a Creative Web Developer & Designer, I strive to elevate customer experience from "Hmmm" to "WOW" with the expertise of design and technology by combining UI/UX, Coding & Developing.
+                    <p>
                     
-                    <p class="mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna.</p>
+                    <p class="mb-30">I Develop Websites to look visually appealing by using large graphical images to convey content. My style is keeping it MINIMAL & using Iconography to communicate information in more effective way. I also go Text Heavy for Websites that rely on Content & SEO.</p>
                     
                     <div class="profile" >
                         <div class="row" data-aos="fade-right" data-aos-delay="300">
@@ -155,11 +158,11 @@
                             </div>
 
                             <div class="col-md-6">
-                                <p>Address: <span>Perambur, Chennai</span></p>
+                                <p>Locality: <span>Chennai</span></p>
                             </div>
                             
                             <div class="col-md-6">
-                                <p>Freelance: <span>Available</span></p>
+                                <p>Language: <span>English, Tamil, Telugu</span></p>
                             </div>
 
                             <div class="col-md-6">
@@ -315,7 +318,7 @@
                     
 
                     <div class="resume-footer">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> 
+                        <p>Worked as Full Stack Web Design & Development Professional with experience from verticals like Ecommerce, Healthcare, Corporate Web Design. I worked with Platforms like Html, CSS, PHP, Laravel, MySQL, Codeigniter.</p> 
                     </div>
                     
                     <div class="img-resume">
@@ -350,7 +353,7 @@
                     
                     
                    <div class="resume-footer">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> 
+                    <p>In 2020 i graduated 'Bachelors of Computer Science' seeking 1st Class in the university level. This were my dreams of setting up a career in Web Design & Development Began.</p> 
                    </div>
                     <div class="img-resume">
                         <img src="assets/images/about/edication-1.jpg" alt="my-history">
@@ -583,84 +586,88 @@
             <div class="col-md-8 offset-md-2">
                 <!-- Title Of Section Center -->
                 <div class="section-title text-center">
-                    <h2>What Love I Do</h2>
-                    <h3><span>My</span> Services</h3>
+                    <h2>What I Do</h2>
+                    <h3><span>My</span> Projects</h3>
                 </div>
                 
             </div>
            <!-- Services Items Column -->
             <div class="col-md-6 col-lg-4">
+                <a href="http://thynkk.in/thanjainaturals/" target="blank">
                 <div class="services-item">
                     <div class="icon-services">
-                        <span><i class="icon icon-basic-lightbulb"></i></span>
+                        <span></span>
                     </div>
-                    <h4>UI/UX Design</h4>
+                    <h4>Thanjainaturals</h4>
                     <hr>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <p>A website which is used to purchase healthy products in online</p>
                     <span class="number-bg">01</span>
                 </div>
+                </a>
             </div>
-            
-           <div class="col-md-6 col-lg-4">
+
+            <div  class="col-md-6 col-lg-4">
+                <a href="https://www.thanjainatural.com/thanjaiapp/home_controller/landingslider" target="blank">
                 <div class="services-item">
                     <div class="icon-services">
-                        <span><i class="icon icon-basic-laptop"></i></span>
+                        <span></span>
                     </div>
-                    <h4>User Interface</h4>
+                    <h4>Pwa for thanjai</h4>
                     <hr>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <p>A fully function pwa for Thanajai naturals Website</p>
                     <span class="number-bg">02</span>
-                </div>
+                </div></a>
+            </div>
+
+           <div class="col-md-6 col-lg-4">
+            <a href="http://poojagoldpalace.com/" target="blank">
+                <div class="services-item">
+                    <div class="icon-services">
+                        <span></span>
+                    </div>
+                    <h4>Pooja Gold palace</h4>
+                    <hr>
+                    <p>A webpage which is used to showcase there jewelleries and with some backend</p>
+                    <span class="number-bg">03</span>
+                </div></a>
             </div> 
 
-
             <div  class="col-md-6 col-lg-4">
+                <a href="https://trillo-showcase-project.netlify.app/" target="blank">
+                <div class="services-item">
+                    <div class="icon-services">
+                        <span></span>
+                    </div>
+                    <h4>Trillo</h4> 
+                    <hr>
+                    <p>A Webpage for booking rooms and travel tickets and it's just a UI page.</p>
+                    <span class="number-bg">04</span>
+                </div></a>
+            </div>
+            
+          <div  class="col-md-6 col-lg-4"><a href="https://nexter-showcase-project.netlify.app/" target="blank">
+                <div class="services-item">
+                    <div class="icon-services">
+                        <span></span>
+                    </div>
+                    <h4>Nexter</h4>
+                    <hr>
+                    <p>A Webpage for buying luxury homes and it's just a UI page</p>
+                    <span class="number-bg">05</span>
+                </div></a>
+            </div>
+            <div  class="col-md-6 col-lg-4"><a href="https://natours-showcase-project.netlify.app/" target="blank">
                 <div class="services-item">
                     <div  class="icon-services">
-                        <span><i class="icon icon-basic-postcard"></i></span>
+                        <span></span>
                     </div>
-                    <h4>Cleen Code</h4>
+                    <h4>Natours</h4>
                     <hr>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                    <span class="number-bg">03</span>
-                </div>
-            </div>
-
-            <div  class="col-md-6 col-lg-4">
-                <div class="services-item">
-                    <div class="icon-services">
-                        <span><i class="icon icon-basic-flag1"></i></span>
-                    </div>
-                    <h4>Branding</h4>
-                    <hr>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                    <span class="number-bg">04</span>
-                </div>
-            </div>
-            
-          <div  class="col-md-6 col-lg-4">
-                <div class="services-item">
-                    <div class="icon-services">
-                        <span><i class="icon icon-basic-globe"></i></span>
-                    </div>
-                    <h4>SEO Optimized</h4>
-                    <hr>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                    <span class="number-bg">05</span>
-                </div>
-            </div>
-            
-            <div  class="col-md-6 col-lg-4">
-                <div class="services-item">
-                    <div class="icon-services">
-                        <span><i class="icon icon-basic-headset"></i></span>
-                    </div>
-                    <h4>Fast Support</h4>
-                    <hr>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <p>There are tourist company who are have existing tours for adventurous peoples.</p>
                     <span class="number-bg">06</span>
-                </div>
+                </div></a>
             </div>
+            
                     
         </div>
     </div>
@@ -683,7 +690,7 @@
                 <!-- Title Of Section Center -->
                 <div class="section-title text-center">
                     <h2>Get In Touch</h2>
-                    <h3>Contact <span>Me</span></h3>
+                    <h3>Reach me <span>at</span></h3>
                 </div>
                 
             </div>
@@ -692,6 +699,42 @@
                 <div class="row">
 
 
+                    
+
+
+                    <div class="col-md-4">
+                        <div class="contact-item">
+                            
+                            <div class="inner-contact">
+                                <span><i class="fa fa-envelope"></i></span>
+                                <h6>Email</h6>
+                            </div>
+                            
+                            <div class="info-cont">
+                                <a href="mailto:balank244@gmail.com"><p>balank244@gmail.com</p></a>
+                                <br>
+                            </div>
+                            
+                            <div class="bg-icon"><i class="fa fa-envelope"></i></div>
+                        </div>
+                    
+                    </div>
+
+
+
+                    <div class="col-md-4">
+                        <div class="contact-item">
+                            <div class="inner-contact">
+                                <span><i class="fa fa-phone"></i></span>
+                                <h6>Mobile</h6>
+                            </div>
+                            <div class="info-cont">
+                                <p>9080099514</p>
+                                <br>
+                            </div>
+                            <div class="bg-icon"><i class="fa fa-phone"></i></div>
+                        </div>
+                    </div>
                     <div class="col-md-4">
                          <div class="contact-item">
                              
@@ -709,42 +752,6 @@
                         </div>
 
                     </div>
-
-
-                    <div class="col-md-4">
-                        <div class="contact-item">
-                            
-                            <div class="inner-contact">
-                                <span><i class="fa fa-envelope"></i></span>
-                                <h6>Email</h6>
-                            </div>
-                            
-                            <div class="info-cont">
-                                <p>balanagendrakumar244@gmail.com</p>
-                                <br>
-                            </div>
-                            
-                            <div class="bg-icon"><i class="fa fa-envelope"></i></div>
-                        </div>
-                    
-                    </div>
-
-
-
-                    <div class="col-md-4">
-                        <div class="contact-item">
-                            <div class="inner-contact">
-                                <span><i class="fa fa-phone"></i></span>
-                                <h6>Call Me</h6>
-                            </div>
-                            <div class="info-cont">
-                                <p>9080099514</p>
-                                <br>
-                            </div>
-                            <div class="bg-icon"><i class="fa fa-phone"></i></div>
-                        </div>
-                    </div>
-                    
                     
                 </div>
                  
@@ -752,7 +759,7 @@
             
             
             
-            <div class="offset-lg-1 col-lg-10" style="display:none;">
+            <div class="offset-lg-1 col-lg-10" style="display: none;">
 
                     <form class="form" action="form.php" method="post"> 
                     <div class="row">
