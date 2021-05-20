@@ -586,7 +586,7 @@
             <div class="col-md-8 offset-md-2">
                 <!-- Title Of Section Center -->
                 <div class="section-title text-center">
-                    <h2>What I Do</h2>
+                    <h2>What I Done</h2>
                     <h3><span>My</span> Projects</h3>
                 </div>
                 
