@@ -124,7 +124,7 @@
             <div class="col-lg-6">
                 <div class="about-img">
                     <div class="box-img">
-                        <img src="assets/images/about/about.jpg" alt="About-me">
+                        <img src="assets/images/about/aboutt.jpg" alt="About-me">
                     </div>
                 </div>
             </div>
