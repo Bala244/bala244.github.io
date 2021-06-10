@@ -818,11 +818,7 @@
                            <li><a href="https://github.com/Bala244" target="blank"><i class="fab fa-github"></i></a></li>
 
             </ul>
-         <!-- Copyright By Me Bnk  -->
-        <div class="copyright text-center">
-            &copy; 2021 Bnk All Rights Reserved By
-            <a href="#" target="_blank">Bnk</a>
-        </div>
+       
         
        </div>
         
