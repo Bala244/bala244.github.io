@@ -318,7 +318,7 @@
                     
 
                     <div class="resume-footer">
-                        <p>Worked as Full Stack Web Design & Development Professional with experience from verticals like Ecommerce, Healthcare, Corporate Web Design. I worked with Platforms like Html, CSS, PHP, Laravel, MySQL, Codeigniter.</p> 
+                        <p>Worked as Full Stack Web Design & Development Professional with experience from verticals like Ecommerce, Healthcare, Corporate Web Design. I worked with Platforms like Html, CSS, PHP, MySQL, Codeigniter.</p> 
                     </div>
                     
                     <div class="img-resume">
