@@ -258,14 +258,14 @@
                                 </div>
                             </div>
                             <div class="skill-box"> 
-                                <h4 class="skill-title">Codeigniter</h4> 
+                                <h4 class="skill-title">Codeigniter & mySql</h4> 
                                 <div class="progress-line"> 
                                     <span data-percent="72"><span class="percent-tooltip">72%</span></span> 
                                 </div>
                             </div>
                             
                             <div class="skill-box"> 
-                                <h4 class="skill-title">PHP & MysQl</h4> 
+                                <h4 class="skill-title">Ruby On Rails</h4> 
                                 <div class="progress-line"> 
                                     <span data-percent="78"><span class="percent-tooltip">78%</span></span> 
                                 </div>
